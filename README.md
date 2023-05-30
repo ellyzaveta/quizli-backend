@@ -38,7 +38,7 @@ slugs:
 |                            |
 | -------------------------- |
 | Quiz creation - start page |
-|![starter](https://github.com/ellyzaveta/test2/assets/90642224/587b0422-a95a-404c-880e-352e6720bf85)|             
+| <img https://github.com/ellyzaveta/quizli-backend/blob/9b1acb45de188b34c7475086c2b918aedaf9c2fb/skreens/builder.png>|             
 |      Quiz builder page     |
 | ![quiz-builder](https://github.com/ellyzaveta/test2/assets/90642224/08a936d0-985e-4be0-959d-213b0bc40bee) |
 |          Statistics        |
